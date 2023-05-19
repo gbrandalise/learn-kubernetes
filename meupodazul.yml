@@ -1,7 +1,7 @@
 apiVersion: v1
 kind: Pod
 metadata:
-  name: meuprimeiropod
+  name: meupodeazul
   labels:
     app: nginx
     versao: azul
